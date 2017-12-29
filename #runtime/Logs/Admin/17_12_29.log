@@ -1,0 +1,672 @@
+[ 2017-12-29T14:39:50+08:00 ] 10.6.1.195 /index.php?g=Admin&m=Main&a=public_server
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000177s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000162s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000117s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000507s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: status /data/wwwroot/dedecms.l/lvyecms/Common/Controller/LvyeCMS.class.php 第 76 行.
+
+[ 2017-12-29T14:40:04+08:00 ] 10.6.1.195 /admin.php?m=Config
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000164s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000212s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000175s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000607s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lvyecms_config` [ RunTime:0.0002s ]
+SQL: SELECT `varname`,`value` FROM `lvyecms_config`  [ RunTime:0.0001s ]
+SQL: UPDATE `lvyecms_config` SET `value`='广东智能家居有限公司官方网站' WHERE `varname` = 'sitename' [ RunTime:0.0002s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='/' WHERE `varname` = 'siteurl' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='/d/file/' WHERE `varname` = 'sitefileurl' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='164466159@qq.com' WHERE `varname` = 'siteemail' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='家具' WHERE `varname` = 'sitekeywords' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='家具' WHERE `varname` = 'siteinfo' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='/d/file/content/2017/12/5a45e3424519e.jpg' WHERE `varname` = 'sitepclogo' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='' WHERE `varname` = 'sitewaplogo' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='0' WHERE `varname` = 'domainaccess' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='1' WHERE `varname` = 'generate' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='11' WHERE `varname` = 'index_urlruleid' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='index.php' WHERE `varname` = 'indextp' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='8' WHERE `varname` = 'tagurl' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='0' WHERE `varname` = 'checkcode_type' [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lvyecms_operationlog` [ RunTime:0.0002s ]
+SQL: INSERT INTO `lvyecms_operationlog` (`uid`,`status`,`info`,`get`,`time`,`ip`) VALUES ('1','1','提示语：更新成功！<br/>模块：Admin,控制器：Config,方法：index<br/>请求方式：Ajax','http://dedecms.l/admin.php?m=Config&menuid=8','1514529604','10.6.1.195') [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:40:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000340s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000298s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000212s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000940s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:41:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000248s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000257s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000758s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:41:43+08:00 ] 10.6.1.195 /admin.php?m=Config
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000166s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000155s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lvyecms_config` [ RunTime:0.0004s ]
+SQL: SELECT `varname`,`value` FROM `lvyecms_config`  [ RunTime:0.0001s ]
+SQL: UPDATE `lvyecms_config` SET `value`='广东智能家居有限公司官方网站' WHERE `varname` = 'sitename' [ RunTime:0.0002s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='/' WHERE `varname` = 'siteurl' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='/d/file/' WHERE `varname` = 'sitefileurl' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='164466159@qq.com' WHERE `varname` = 'siteemail' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='家具' WHERE `varname` = 'sitekeywords' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='家具' WHERE `varname` = 'siteinfo' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='/d/file/content/2017/12/5a45e3424519e.jpg' WHERE `varname` = 'sitepclogo' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='/d/file/content/2017/12/5a45e3a549b6f.png' WHERE `varname` = 'sitewaplogo' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='0' WHERE `varname` = 'domainaccess' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='1' WHERE `varname` = 'generate' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='11' WHERE `varname` = 'index_urlruleid' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='index.php' WHERE `varname` = 'indextp' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='8' WHERE `varname` = 'tagurl' [ RunTime:0.0001s ]
+NOTIC: [2] unlink(/data/wwwroot/dedecms.l/#runtime/Temp/jhn_fa535ffb25e1fd20341652f9be21e06e.php): No such file or directory /data/wwwroot/dedecms.l/lvyecms/Core/Library/Think/Cache/Driver/File.class.php 第 157 行.
+SQL: UPDATE `lvyecms_config` SET `value`='0' WHERE `varname` = 'checkcode_type' [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lvyecms_operationlog` [ RunTime:0.0002s ]
+SQL: INSERT INTO `lvyecms_operationlog` (`uid`,`status`,`info`,`get`,`time`,`ip`) VALUES ('1','1','提示语：更新成功！<br/>模块：Admin,控制器：Config,方法：index<br/>请求方式：Ajax','http://dedecms.l/admin.php?m=Config&menuid=8','1514529703','10.6.1.195') [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:42:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000354s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000336s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:43:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000285s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000252s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000790s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:44:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000171s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000234s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000560s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:45:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000204s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000179s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:46:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000189s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000158s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000113s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:47:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000282s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000255s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000792s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:48:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000461s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000423s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000302s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001306s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:49:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000202s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000620s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:50:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000226s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000214s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000150s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:51:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000321s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000333s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000235s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:52:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000203s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000188s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000582s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:53:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000355s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000336s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000234s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001026s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:54:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000269s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000250s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000177s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:55:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000273s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:56:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000181s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000566s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:57:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000188s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000176s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000542s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:58:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000166s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000513s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T14:59:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000288s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000272s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:00:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000151s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000469s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:01:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000153s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000518s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:02:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000317s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000375s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000217s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:03:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000153s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000467s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:04:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000269s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000185s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000827s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:05:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000201s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000591s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:06:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000179s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000170s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000124s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000521s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:07:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000205s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000192s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000139s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000605s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:08:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000359s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000221s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000813s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:09:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000193s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000181s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000558s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:10:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000231s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000219s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000152s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000667s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0006s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:11:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000315s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000297s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000930s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:12:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000176s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000164s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000511s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:13:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000312s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000286s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000195s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000870s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:14:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000167s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000157s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000134s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000504s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:15:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000227s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000216s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0004s ]
+
+[ 2017-12-29T15:16:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000190s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000228s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000145s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000626s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:17:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000598s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000236s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000161s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001066s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:18:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000162s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000150s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000462s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:19:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000186s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000177s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000584s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:20:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000365s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000175s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000122s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000800s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:21:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000214s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000204s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000144s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000622s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:22:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000184s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000172s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000129s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000536s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:23:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000291s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000253s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000178s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000811s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:24:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000187s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000176s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000563s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:25:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000224s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000208s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000645s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:26:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000183s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000165s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000180s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000654s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:27:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000290s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000274s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000837s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:28:17+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000217s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000223s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000167s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000669s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:29:13+08:00 ] 10.6.1.195 /admin.php?m=Main&a=public_server
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000244s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000230s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000163s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000706s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: status /data/wwwroot/dedecms.l/lvyecms/Common/Controller/LvyeCMS.class.php 第 76 行.
+
+[ 2017-12-29T15:29:42+08:00 ] 10.6.1.195 /index.php?g=Admin&m=Main&a=public_server
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000292s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000263s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000822s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [2] curl_error(): 63 is not a valid cURL handle resource /data/wwwroot/dedecms.l/lvyecms/Libs/Util/Curl.class.php 第 71 行.
+NOTIC: [2] curl_errno(): 63 is not a valid cURL handle resource /data/wwwroot/dedecms.l/lvyecms/Libs/Util/Curl.class.php 第 71 行.
+NOTIC: [8] Undefined index: status /data/wwwroot/dedecms.l/lvyecms/Common/Controller/LvyeCMS.class.php 第 76 行.
+
+[ 2017-12-29T15:30:13+08:00 ] 10.6.1.195 /admin.php
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000193s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000136s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000633s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+

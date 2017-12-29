@@ -1,0 +1,39 @@
+[ 2017-12-29T15:06:36+08:00 ] 10.6.1.195 /api.php?m=Hits&catid=68&id=7
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000213s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000158s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000349s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000770s ]
+SQL: SHOW COLUMNS FROM `lvyecms_photo` [ RunTime:0.0006s ]
+SQL: SELECT `catid`,`id`,`dayviews`,`monthviews`,`views`,`weekviews`,`yesterdayviews`,`viewsupdatetime` FROM `lvyecms_photo` WHERE `id` = 7 LIMIT 1   [ RunTime:0.0003s ]
+SQL: UPDATE `lvyecms_photo` SET `views`='1',`yesterdayviews`='0',`dayviews`='1',`weekviews`='1',`monthviews`='1',`viewsupdatetime`='1514531196' WHERE `id` = 7 [ RunTime:0.0006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000361s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000394s ]
+
+[ 2017-12-29T15:17:39+08:00 ] 10.6.1.195 /api.php?m=Hits&catid=66&id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000220s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000168s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000585s ]
+SQL: SHOW COLUMNS FROM `lvyecms_news` [ RunTime:0.0004s ]
+SQL: SELECT `catid`,`id`,`dayviews`,`monthviews`,`views`,`weekviews`,`yesterdayviews`,`viewsupdatetime` FROM `lvyecms_news` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `lvyecms_news` SET `views`='2',`yesterdayviews`='0',`dayviews`='1',`weekviews`='2',`monthviews`='2',`viewsupdatetime`='1514531859' WHERE `id` = 9 [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000235s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000259s ]
+
+[ 2017-12-29T15:17:44+08:00 ] 10.6.1.195 /api.php?m=Hits&catid=66&id=9
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000343s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000262s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000230s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+SQL: SHOW COLUMNS FROM `lvyecms_news` [ RunTime:0.0004s ]
+SQL: SELECT `catid`,`id`,`dayviews`,`monthviews`,`views`,`weekviews`,`yesterdayviews`,`viewsupdatetime` FROM `lvyecms_news` WHERE `id` = 9 LIMIT 1   [ RunTime:0.0001s ]
+SQL: UPDATE `lvyecms_news` SET `views`='3',`yesterdayviews`='0',`dayviews`='2',`weekviews`='3',`monthviews`='3',`viewsupdatetime`='1514531864' WHERE `id` = 9 [ RunTime:0.0002s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000219s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000244s ]
+

@@ -1,0 +1,56 @@
+[ 2017-12-29T14:39:57+08:00 ] 10.6.1.195 /index.php?a=competence&m=Attachments&g=Attachment&args=1,jpg|jpeg|gif|bmp|png,1,,,0&module=content&catid=&authkey=9cc65173a6048fc830e31fa76aa1eff6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000246s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000190s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000155s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000653s ]
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: Content /data/wwwroot/dedecms.l/lvyecms/Application/Attachment/Controller/AttachmentsController.class.php 第 170 行.
+
+[ 2017-12-29T14:40:02+08:00 ] 10.6.1.195 /index.php?a=swfupload_json&m=Attachments&g=Attachment&aid=47&src=/d/file/content/2017/12/5a45e3424519e.jpg&filename=logo.jpg
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000250s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000196s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000668s ]
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lvyecms_attachment` [ RunTime:0.0004s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000243s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000279s ]
+
+[ 2017-12-29T14:41:10+08:00 ] 10.6.1.195 /index.php?a=competence&m=Attachments&g=Attachment&args=1,jpg|jpeg|gif|bmp|png,1,,,0&module=content&catid=&authkey=9cc65173a6048fc830e31fa76aa1eff6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000235s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000253s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000839s ]
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: Content /data/wwwroot/dedecms.l/lvyecms/Application/Attachment/Controller/AttachmentsController.class.php 第 170 行.
+
+[ 2017-12-29T14:41:22+08:00 ] 10.6.1.195 /index.php?a=competence&m=Attachments&g=Attachment&args=1,jpg|jpeg|gif|bmp|png,1,,,0&module=content&catid=&authkey=9cc65173a6048fc830e31fa76aa1eff6
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000163s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000134s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000107s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000448s ]
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: Content /data/wwwroot/dedecms.l/lvyecms/Application/Attachment/Controller/AttachmentsController.class.php 第 170 行.
+
+[ 2017-12-29T14:41:41+08:00 ] 10.6.1.195 /index.php?a=swfupload_json&m=Attachments&g=Attachment&aid=48&src=/d/file/content/2017/12/5a45e3a549b6f.png&filename=logo.png
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000200s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000164s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000132s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000550s ]
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lvyecms_attachment` [ RunTime:0.0003s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000220s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000250s ]
+

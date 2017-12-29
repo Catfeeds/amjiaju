@@ -1,0 +1,322 @@
+[ 2017-12-29T14:45:59+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T14:46:03+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=3
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T14:55:43+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+
+[ 2017-12-29T14:56:21+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+
+[ 2017-12-29T15:02:21+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+
+[ 2017-12-29T15:02:25+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+
+[ 2017-12-29T15:04:06+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:04:09+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:04:27+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:05:48+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:05:49+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:06:03+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:06:33+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:07:07+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:07:22+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:08:53+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:10:04+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:17:09+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T15:17:11+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=3
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T15:17:38+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T15:19:00+08:00 ] 10.6.1.195 /index.php?g=Wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:19:06+08:00 ] 10.6.1.195 /index.php?g=Wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:19:13+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:19:59+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=4
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_shaijia` WHERE `catid` = 4 AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T15:21:44+08:00 ] 10.6.1.195 /index.php?g=Wap&m=Wap&a=edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000168s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000148s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000111s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000474s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lvyecms_category` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_category` WHERE `catid` = 1 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: wapcategory_template /data/wwwroot/dedecms.l/lvyecms/Application/Wap/Controller/WapController.class.php 第 112 行.
+NOTIC: [8] Undefined index: waplist_template /data/wwwroot/dedecms.l/lvyecms/Application/Wap/Controller/WapController.class.php 第 114 行.
+NOTIC: [8] Undefined index: wapshow_template /data/wwwroot/dedecms.l/lvyecms/Application/Wap/Controller/WapController.class.php 第 116 行.
+SQL: UPDATE `lvyecms_category` SET `catid`='1',`module`='content',`type`='1',`modelid`='0',`domain`='',`parentid`='0',`arrparentid`='0',`child`='1',`arrchildid`='1,62,63,64',`catname`='关于我们',`catname_en`='PROFILE',`image`='/d/file/content/2017/12/5a45da9662f96.jpg',`description`='',`parentdir`='',`catdir`='gywm',`url`='',`hits`='0',`setting`='a:12:{s:6:\"seturl\";s:0:\"\";s:10:\"meta_title\";s:0:\"\";s:13:\"meta_keywords\";s:0:\"\";s:16:\"meta_description\";s:0:\"\";s:13:\"page_template\";s:13:\"page_gywm.php\";s:6:\"ishtml\";s:1:\"1\";s:15:\"category_ruleid\";s:1:\"2\";s:11:\"show_ruleid\";N;s:20:\"wapcategory_template\";N;s:16:\"waplist_template\";N;s:16:\"wapshow_template\";N;s:16:\"wappage_template\";s:13:\"page_gywm.php\";}',`listorder`='1',`ismenu`='1',`sethtml`='1',`letter`='guanyuwomen' WHERE `catid` = 1 [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `lvyecms_category` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_category` WHERE `catid` = 1 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: extend /data/wwwroot/dedecms.l/lvyecms/Common/Common/common.php 第 324 行.
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_operationlog` [ RunTime:0.0002s ]
+SQL: INSERT INTO `lvyecms_operationlog` (`uid`,`status`,`info`,`get`,`time`,`ip`) VALUES ('1','1','提示语：3G版栏目配置更新成功！记得点击右上角的清除缓存！<br/>模块：Wap,控制器：Wap,方法：edit<br/>请求方式：Ajax','http://dedecms.l/index.php?g=Wap&m=Wap&a=edit&catid=1','1514532104','10.6.1.195') [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:22:01+08:00 ] 10.6.1.195 /index.php?g=Wap&m=Wap&a=edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000247s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000205s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000682s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0005s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lvyecms_category` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_category` WHERE `catid` = 6 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: wapcategory_template /data/wwwroot/dedecms.l/lvyecms/Application/Wap/Controller/WapController.class.php 第 112 行.
+NOTIC: [8] Undefined index: waplist_template /data/wwwroot/dedecms.l/lvyecms/Application/Wap/Controller/WapController.class.php 第 114 行.
+NOTIC: [8] Undefined index: wapshow_template /data/wwwroot/dedecms.l/lvyecms/Application/Wap/Controller/WapController.class.php 第 116 行.
+SQL: UPDATE `lvyecms_category` SET `catid`='6',`module`='content',`type`='1',`modelid`='0',`domain`='',`parentid`='0',`arrparentid`='0',`child`='1',`arrchildid`='6,75,76',`catname`='招贤纳士',`catname_en`='HR',`image`='/d/file/content/2017/12/5a45dbb14c845.jpg',`description`='',`parentdir`='',`catdir`='zxns',`url`='',`hits`='0',`setting`='a:12:{s:6:\"seturl\";s:0:\"\";s:10:\"meta_title\";s:0:\"\";s:13:\"meta_keywords\";s:0:\"\";s:16:\"meta_description\";s:0:\"\";s:13:\"page_template\";s:13:\"page_zxns.php\";s:6:\"ishtml\";s:1:\"1\";s:15:\"category_ruleid\";s:1:\"2\";s:11:\"show_ruleid\";N;s:20:\"wapcategory_template\";N;s:16:\"waplist_template\";N;s:16:\"wapshow_template\";N;s:16:\"wappage_template\";s:13:\"page_zxns.php\";}',`listorder`='6',`ismenu`='1',`sethtml`='1',`letter`='zhaoxiannashi' WHERE `catid` = 6 [ RunTime:0.0003s ]
+SQL: SHOW COLUMNS FROM `lvyecms_category` [ RunTime:0.0004s ]
+SQL: SELECT * FROM `lvyecms_category` WHERE `catid` = 6 LIMIT 1   [ RunTime:0.0002s ]
+NOTIC: [8] Undefined index: extend /data/wwwroot/dedecms.l/lvyecms/Common/Common/common.php 第 324 行.
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_operationlog` [ RunTime:0.0003s ]
+SQL: INSERT INTO `lvyecms_operationlog` (`uid`,`status`,`info`,`get`,`time`,`ip`) VALUES ('1','1','提示语：3G版栏目配置更新成功！记得点击右上角的清除缓存！<br/>模块：Wap,控制器：Wap,方法：edit<br/>请求方式：Ajax','http://dedecms.l/index.php?g=Wap&m=Wap&a=edit&catid=6','1514532121','10.6.1.195') [ RunTime:0.0002s ]
+
+[ 2017-12-29T15:22:07+08:00 ] 10.6.1.195 /index.php?g=Wap&m=Wap&a=edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000159s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000130s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000106s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000440s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lvyecms_category` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_category` WHERE `catid` = 7 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: wapcategory_template /data/wwwroot/dedecms.l/lvyecms/Application/Wap/Controller/WapController.class.php 第 112 行.
+NOTIC: [8] Undefined index: waplist_template /data/wwwroot/dedecms.l/lvyecms/Application/Wap/Controller/WapController.class.php 第 114 行.
+NOTIC: [8] Undefined index: wapshow_template /data/wwwroot/dedecms.l/lvyecms/Application/Wap/Controller/WapController.class.php 第 116 行.
+SQL: UPDATE `lvyecms_category` SET `catid`='7',`module`='content',`type`='1',`modelid`='0',`domain`='',`parentid`='0',`arrparentid`='0',`child`='0',`arrchildid`='7',`catname`='联系我们',`catname_en`='CONTACT',`image`='/d/file/content/2017/12/5a45dbd3d2a8c.jpg',`description`='',`parentdir`='',`catdir`='lxwm',`url`='',`hits`='0',`setting`='a:12:{s:6:\"seturl\";s:0:\"\";s:10:\"meta_title\";s:0:\"\";s:13:\"meta_keywords\";s:0:\"\";s:16:\"meta_description\";s:0:\"\";s:13:\"page_template\";s:13:\"page_lxwm.php\";s:6:\"ishtml\";s:1:\"1\";s:15:\"category_ruleid\";s:1:\"2\";s:11:\"show_ruleid\";N;s:20:\"wapcategory_template\";N;s:16:\"waplist_template\";N;s:16:\"wapshow_template\";N;s:16:\"wappage_template\";s:13:\"page_lxwm.php\";}',`listorder`='7',`ismenu`='1',`sethtml`='1',`letter`='lianxiwomen' WHERE `catid` = 7 [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lvyecms_category` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_category` WHERE `catid` = 7 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: extend /data/wwwroot/dedecms.l/lvyecms/Common/Common/common.php 第 324 行.
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_operationlog` [ RunTime:0.0002s ]
+SQL: INSERT INTO `lvyecms_operationlog` (`uid`,`status`,`info`,`get`,`time`,`ip`) VALUES ('1','1','提示语：3G版栏目配置更新成功！记得点击右上角的清除缓存！<br/>模块：Wap,控制器：Wap,方法：edit<br/>请求方式：Ajax','http://dedecms.l/index.php?g=Wap&m=Wap&a=edit&catid=7','1514532127','10.6.1.195') [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:22:29+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T15:26:27+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T15:26:28+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T15:26:28+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T15:26:28+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T15:26:29+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T15:26:29+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T15:26:30+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id DESC
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id DESC LIMIT 0,16  
+
+[ 2017-12-29T15:26:41+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 0,8  
+
+[ 2017-12-29T15:27:17+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2&page=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 8,8  
+
+[ 2017-12-29T15:27:25+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=3
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 0,8  
+
+[ 2017-12-29T15:27:30+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=4
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_shaijia` WHERE `catid` = 4 AND `status` = 99 ORDER BY id desc LIMIT 0,8  
+
+[ 2017-12-29T15:29:19+08:00 ] 10.6.1.195 /index.php?g=Wap&m=Wap&a=edit
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000182s ]
+INFO: Run Common\Behavior\AppBeginBehavior [ RunTime:0.000138s ]
+INFO: Run Wap\Behavior\WapBehavior [ RunTime:0.000112s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000479s ]
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_user` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_user` WHERE `id` = 1 LIMIT 1   [ RunTime:0.0001s ]
+SQL: SHOW COLUMNS FROM `lvyecms_category` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_category` WHERE `catid` = 7 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: wapcategory_template /data/wwwroot/dedecms.l/lvyecms/Application/Wap/Controller/WapController.class.php 第 112 行.
+NOTIC: [8] Undefined index: waplist_template /data/wwwroot/dedecms.l/lvyecms/Application/Wap/Controller/WapController.class.php 第 114 行.
+NOTIC: [8] Undefined index: wapshow_template /data/wwwroot/dedecms.l/lvyecms/Application/Wap/Controller/WapController.class.php 第 116 行.
+SQL: UPDATE `lvyecms_category` SET `catid`='7',`module`='content',`type`='1',`modelid`='0',`domain`='',`parentid`='0',`arrparentid`='0',`child`='0',`arrchildid`='7',`catname`='联系我们',`catname_en`='CONTACT',`image`='/d/file/content/2017/12/5a45dbd3d2a8c.jpg',`description`='',`parentdir`='',`catdir`='lxwm',`url`='',`hits`='0',`setting`='a:12:{s:6:\"seturl\";s:0:\"\";s:10:\"meta_title\";s:0:\"\";s:13:\"meta_keywords\";s:0:\"\";s:16:\"meta_description\";s:0:\"\";s:13:\"page_template\";s:13:\"page_lxwm.php\";s:6:\"ishtml\";s:1:\"1\";s:15:\"category_ruleid\";s:1:\"2\";s:11:\"show_ruleid\";N;s:20:\"wapcategory_template\";N;s:16:\"waplist_template\";N;s:16:\"wapshow_template\";N;s:16:\"wappage_template\";s:8:\"page.php\";}',`listorder`='7',`ismenu`='1',`sethtml`='1',`letter`='lianxiwomen' WHERE `catid` = 7 [ RunTime:0.0002s ]
+SQL: SHOW COLUMNS FROM `lvyecms_category` [ RunTime:0.0003s ]
+SQL: SELECT * FROM `lvyecms_category` WHERE `catid` = 7 LIMIT 1   [ RunTime:0.0001s ]
+NOTIC: [8] Undefined index: extend /data/wwwroot/dedecms.l/lvyecms/Common/Common/common.php 第 324 行.
+NOTIC: [8] Undefined index: host /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 895 行.
+NOTIC: [8] Undefined index: g /data/wwwroot/dedecms.l/lvyecms/Common/Common/corefun.php 第 1035 行.
+SQL: SHOW COLUMNS FROM `lvyecms_operationlog` [ RunTime:0.0002s ]
+SQL: INSERT INTO `lvyecms_operationlog` (`uid`,`status`,`info`,`get`,`time`,`ip`) VALUES ('1','1','提示语：3G版栏目配置更新成功！记得点击右上角的清除缓存！<br/>模块：Wap,控制器：Wap,方法：edit<br/>请求方式：Ajax','http://dedecms.l/index.php?g=Wap&m=Wap&a=edit&catid=7','1514532559','10.6.1.195') [ RunTime:0.0001s ]
+
+[ 2017-12-29T15:29:24+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 0,8  
+
+[ 2017-12-29T15:30:00+08:00 ] 10.6.1.195 /index.php?g=Wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:30:06+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=2
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 0,8  
+
+[ 2017-12-29T15:30:08+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=3
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 0,8  
+
+[ 2017-12-29T15:30:10+08:00 ] 10.6.1.195 /index.php?g=Wap&a=lists&catid=4
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_shaijia` WHERE `catid` = 4 AND `status` = 99 ORDER BY id desc LIMIT 0,8  
+
+[ 2017-12-29T15:30:24+08:00 ] 10.6.1.195 /index.php?g=Wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 6  
+
+[ 2017-12-29T15:30:36+08:00 ] 10.6.1.195 /index.php?g=wap
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=listorder
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` = 77 AND `status` = 99 ORDER BY listorder LIMIT 3  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_photo` WHERE `catid` IN ('67','68','69','70','71','72','73','74') AND `status` = 99 ORDER BY id desc LIMIT 6  
+DEBUG: Content标签->lists：参数：catid= ,modelid= ,order=id desc
+SQL:SELECT * FROM `lvyecms_news` WHERE `catid` IN ('65','66') AND `status` = 99 ORDER BY id desc LIMIT 6  
+

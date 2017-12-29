@@ -1,0 +1,31 @@
+<?php
+define('InEmpireBakData',TRUE);
+require("../../inc/header.php");
+
+/*
+		SoftName : EmpireBak Version 5.1
+		Author   : wm_chief
+		Copyright: Powered by www.phome.net
+*/
+
+DoSetDbChar('utf8');
+E_D("DROP TABLE IF EXISTS `lvyecms_module`;");
+E_C("CREATE TABLE `lvyecms_module` (
+  `module` varchar(15) NOT NULL COMMENT '模块',
+  `modulename` varchar(20) NOT NULL DEFAULT '' COMMENT '模块名称',
+  `sign` varchar(255) NOT NULL DEFAULT '' COMMENT '签名',
+  `iscore` tinyint(1) unsigned NOT NULL DEFAULT '0' COMMENT '内置模块',
+  `disabled` tinyint(1) unsigned NOT NULL DEFAULT '0' COMMENT '是否可用',
+  `version` varchar(50) NOT NULL DEFAULT '' COMMENT '版本',
+  `setting` mediumtext COMMENT '设置信息',
+  `installtime` int(10) NOT NULL DEFAULT '0' COMMENT '安装时间',
+  `updatetime` int(10) NOT NULL DEFAULT '0' COMMENT '更新时间',
+  `listorder` tinyint(3) unsigned NOT NULL DEFAULT '0' COMMENT '排序',
+  PRIMARY KEY (`module`),
+  KEY `sign` (`sign`)
+) ENGINE=MyISAM DEFAULT CHARSET=utf8 COMMENT='已安装模块列表'");
+E_D("replace into `lvyecms_module` values(0x536561726368,0xe6909ce7b4a2,0x3265303164666531643662653765343534616561363663343432363339623765,'0','1',0x312e302e32,0x613a393a7b733a373a226d6f64656c6964223b613a333a7b693a303b733a313a2231223b693a313b733a313a2232223b693a323b733a313a2233223b7d733a31333a2272656c6174696f6e656e626c65223b733a313a2231223b733a373a227365676d656e74223b733a313a2231223b733a393a22647a7365676d656e74223b733a313a2231223b733a383a227061676573697a65223b733a323a223130223b733a393a22636163686574696d65223b733a313a2230223b733a31323a22737068696e78656e61626c65223b733a313a2230223b733a31303a22737068696e78686f7374223b733a303a22223b733a31303a22737068696e78706f7274223b733a303a22223b7d,'1514511148','1514511148','0');");
+E_D("replace into `lvyecms_module` values(0x576170,0x574150e6898be69cbae78988,0x3442374230364441313130313832314436414145344235314243393645364146,'0','1',0x312e302e32,'','1514511153','1514511153','0');");
+
+require("../../inc/footer.php");
+?>
